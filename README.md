@@ -58,3 +58,7 @@ LazyVim will automatically install plugins and set things up.
 Saad-Dev-8
 
     GitHub: @Saad-Dev-8
+
+## License
+
+Apache-2.0 license
