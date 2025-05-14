@@ -53,7 +53,7 @@ LazyVim will automatically install plugins and set things up.
     fd – faster file finding
     stylua – formatting Lua files
     
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Saad-Dev-8
 
