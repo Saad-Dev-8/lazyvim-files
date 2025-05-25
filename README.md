@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 # 💤 LazyVim Config
 
+=======
+
+# 💤 LazyVim Config
+
+>>>>>>> 6238ec7 (Add my current LazyVim config)
 > ✨ My personalized [LazyVim](https://github.com/LazyVim/LazyVim) setup — a fast, modern, and minimal Neovim configuration powered by Lua and lazy-loading plugins.
 
 ---
@@ -43,6 +49,7 @@ LazyVim will automatically install plugins and set things up.
 
 ## 📦 Requirements
 
+<<<<<<< HEAD
     Latest Version of Neovim
     Git
     Nerd Fonts (for icons)
@@ -53,11 +60,27 @@ LazyVim will automatically install plugins and set things up.
     fd – faster file finding
     stylua – formatting Lua files
     
+=======
+Latest Version of Neovim
+Git
+Nerd Fonts (for icons)
+
+## 🔧 Optional Tools (Recommended)
+
+ripgrep – for better search
+fd – faster file finding
+stylua – formatting Lua files
+
+>>>>>>> 6238ec7 (Add my current LazyVim config)
 ## 🧑‍💻 Author
 
 Saad-Dev-8
 
+<<<<<<< HEAD
     GitHub: @Saad-Dev-8
+=======
+GitHub: @Saad-Dev-8
+>>>>>>> 6238ec7 (Add my current LazyVim config)
 
 ## License
 

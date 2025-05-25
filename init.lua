@@ -1,8 +1,19 @@
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 
-vim.opt.termguicolors = true
-vim.opt.background = "dark"
+vim.o.termguicolors = true
+vim.o.background = "dark"
+
+require("github-theme").setup({
+  options = {
+    -- make backgrounds “none” so your terminal’s alpha shows through
+    transparent = true,
+    -- hide the ~ lines at the end of the buffer
+    hide_end_of_buffer = true,
+  },
+})
+
+vim.cmd("colorscheme github_dark")
 
 require("lualine").setup({
   options = {
