@@ -18,6 +18,8 @@
 │ ├── lazy.lua
 │ └── options.lua
 └── plugins/ # Custom plugins and overrides
+├── github_theme.lua
+├── plugins.lua
 ├── errorlens.lua
 └── example.lua
 ```
